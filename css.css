@@ -1,0 +1,60 @@
+*{
+    padding : 0px;
+    margin : 0px;
+}
+.div1{
+        background-image:url(b.jpg);
+        background-position:0%;
+}
+.left{
+    float: left;
+    font-size: 20px;
+}
+.right{
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+}
+.link{
+    text-decoration: none;
+    padding-left: 5px;
+    padding-right: 20px;
+    color:white;
+}
+.main{
+    margin-top: 220px;
+}
+.m1{
+    color:rgb(108, 219, 108);
+    font-size: 90px;
+    text-align: center;
+    letter-spacing: 6px;
+}
+.m2{
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 3px;
+}
+.home{
+    color:rgb(3, 65, 3);
+}
+.btn{
+    background-color: green;
+    color: white;
+    border-radius: 15px;
+    border-color: green;
+    letter-spacing: 3px;
+    padding: 15px;
+}
+.button{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 100px;
+    height: 250px;
+}
+.h2{
+    margin-top: 10px;
+    margin-left: 30px;
+}
